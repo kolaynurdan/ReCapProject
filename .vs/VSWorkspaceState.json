@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business\\Concrete",
+    "\\DataAccess\\Concrete\\Entity Framework",
+    "\\Entities\\Abstract",
+    "\\Entities\\Concrete"
+  ],
+  "PreviewInSolutionExplorer": false
+}
